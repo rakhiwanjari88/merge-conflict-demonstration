@@ -1,2 +1,2 @@
 # merge-conflict-demonstration
-This is the MAIN branch version.
+This is the feature  branch version.
